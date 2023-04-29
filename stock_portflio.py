@@ -268,8 +268,3 @@ plt.xlabel('Investment Duration')
 plt.ylabel('Total Return Amount (in $)')
 plt.title('Total Return on $10000 Investment')
 plt.show()
-
-# add $ to y label values
-# make the x axis start at 10000
-
-#
